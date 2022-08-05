@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recherche" value="name:id;datatype:int,name:nom;datatype:string,name:prenom;datatype:string" />
+	<infoitem key="UD_Recherchetitre" value="name:isbn;datatype:string,name:titre;datatype:string,name:editeur_id;datatype:int,name:date_publication;datatype:date,name:description_id;datatype:int,name:langue;datatype:string" />
+	<infoitem key="UD_RechercheGenre" value="name:nom;datatype:string" />
+	<infoitem key="UD_RechercheLague" value="name:nom;datatype:string" />
+	<infoitem key="UD_Connexionpb" value="name:nom;datatype:string" />
+	<infoitem key="UD_Connexiondb1" value="name:nom;datatype:string" />
+	<infoitem key="UD_Connexiondb2" value="name:id;datatype:int,name:nom;datatype:string,name:prenom;datatype:string" />
+	<infoitem key="UD_Connexiondb3" value="name:titre;datatype:string" />
+	<infoitem key="UD_Connexionpbr" value="name:isbn;datatype:string,name:titre;datatype:string,name:editeur_id;datatype:int,name:date_publication;datatype:date,name:description_id;datatype:int,name:langue;datatype:string" />
+	<infoitem key="UD_Connexionpbr2" value="name:id;datatype:int,name:nom;datatype:string,name:prenom;datatype:string" />
+	<infoitem key="UD_Connexionpbr3" value="name:nom;datatype:string" />
+	<infoitem key="UD_Connexionpbr4" value="name:id;datatype:int,name:nom;datatype:string" />
+	<infoitem key="UD_Connexionpbr5" value="name:description_id;datatype:int,name:ordre;datatype:int,name:texte;datatype:string" />
+</info>

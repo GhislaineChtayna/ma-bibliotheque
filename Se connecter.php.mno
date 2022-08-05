@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_connexion" value="name:mdp;datatype:string,name:email;datatype:string" />
+	<infoitem key="UD_Connexionseconnecter" value="name:email;datatype:string,name:mdp;datatype:string" />
+</info>

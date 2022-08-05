@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Connexionpc1" value="name:id;datatype:int,name:date_debut;datatype:date,name:date_fin;datatype:string,name:renouvele;datatype:int,name:utilisateur_id;datatype:int,name:exemplaire_id;datatype:int" />
+	<infoitem key="UD_Connexionpc2" value="name:isbn;datatype:string,name:titre;datatype:string,name:editeur_id;datatype:int,name:date_publication;datatype:date,name:description_id;datatype:int,name:langue;datatype:string" />
+	<infoitem key="UD_Connexionpc3" value="name:nom;datatype:string" />
+	<infoitem key="UD_Connexionpc4" value="name:id;datatype:int,name:nom;datatype:string,name:prenom;datatype:string" />
+	<infoitem key="UD_Connexionpc5" value="name:id;datatype:int,name:nom;datatype:string" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_creercompte" value="name:id;datatype:int,name:email;datatype:string,name:nom;datatype:string,name:prenom;datatype:string,name:mdp;datatype:string,name:sel;datatype:string" />
+	<infoitem key="UD_Connexioncreationcompte" value="name:id;datatype:int,name:email;datatype:string,name:nom;datatype:string,name:prenom;datatype:string,name:mdp;datatype:string,name:sel;datatype:string" />
+</info>

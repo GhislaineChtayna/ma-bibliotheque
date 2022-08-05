@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Informationutilisateur" value="name:nom;datatype:string,name:prenom;datatype:string,name:email;datatype:string" />
+	<infoitem key="UD_ConnexionIC" value="name:nom;datatype:string,name:prenom;datatype:string,name:email;datatype:string" />
+</info>

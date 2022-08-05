@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_livre" value="name:isbn;datatype:string,name:titre;datatype:string,name:editeur_id;datatype:int,name:date_publication;datatype:date,name:description_id;datatype:int,name:langue;datatype:string" />
+	<infoitem key="UD_livre_genre" value="name:nom;datatype:string" />
+	<infoitem key="UD_livre_langue" value="name:nom;datatype:string" />
+	<infoitem key="UD_livre_auteur" value="name:id;datatype:int,name:nom;datatype:string,name:prenom;datatype:string" />
+</info>
